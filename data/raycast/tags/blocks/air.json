@@ -1,0 +1,25 @@
+{
+	"values": [
+		"minecraft:air",
+		"#minecraft:buttons",
+		"#minecraft:wool_carpets",
+		"#minecraft:candles",
+		"minecraft:cave_air",
+		"#minecraft:cave_vines",
+		"#minecraft:crops",
+		"#minecraft:fire",
+		"#minecraft:flowers",
+		"#minecraft:pressure_plates",
+		"#minecraft:rails",
+		"minecraft:redstone_wire",
+		"#minecraft:saplings",
+		"#minecraft:all_signs",
+		"#minecraft:small_flowers",
+		"#minecraft:tall_flowers",
+		"minecraft:void_air",
+		"#minecraft:wall_signs",
+		"#raycast:partial",
+		"#minecraft:replaceable",
+		"minecraft:barrier"
+	]
+}

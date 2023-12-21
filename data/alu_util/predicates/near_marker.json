@@ -1,0 +1,12 @@
+{
+	"condition": "minecraft:entity_properties",
+	"entity": "this",
+	"predicate": {
+		"type": "minecraft:marker",
+		"distance": {
+			"absolute": {
+				"max": 1
+			}
+		}
+	}
+}

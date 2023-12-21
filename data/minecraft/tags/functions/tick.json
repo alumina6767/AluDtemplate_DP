@@ -1,0 +1,8 @@
+{
+    "values": [
+        {"id": "alu_util:tick"   , "required": false},
+        {"id": "dtpl:tick"       , "required": false},
+        {"id": "alu_timer:tick"  , "required": false},
+        {"id": "right_click:tick", "required": false}
+    ]
+}

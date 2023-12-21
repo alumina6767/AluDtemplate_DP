@@ -1,0 +1,26 @@
+{
+	"condition": "minecraft:value_check",
+	"value": {
+		"type": "minecraft:score",
+		"target": "this",
+		"score": "dtpl.user_id"
+	},
+	"range": {
+		"min": {
+			"type": "minecraft:score",
+			"target": {
+				"type": "minecraft:fixed",
+				"name": "bonj55"
+			},
+			"score": "dtpl.user_id"
+		},
+		"max": {
+			"type": "minecraft:score",
+			"target": {
+				"type": "minecraft:fixed",
+				"name": "bonj55"
+			},
+			"score": "dtpl.user_id"
+		}
+	}
+}

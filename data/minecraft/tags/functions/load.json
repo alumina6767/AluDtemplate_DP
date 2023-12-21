@@ -1,0 +1,9 @@
+{
+    "values": [
+        {"id": "alu_util:load"   ,"required": false},
+        {"id": "dtpl:load"       ,"required": false},
+        {"id": "raycast:init"    ,"required": false},
+        {"id": "alu_timer:load"  ,"required": false},
+        {"id": "right_click:load","required": false}
+    ]
+}

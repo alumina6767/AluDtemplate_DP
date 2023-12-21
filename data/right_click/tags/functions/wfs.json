@@ -1,0 +1,6 @@
+{
+    "_comment": "歪んだキノコ付きの棒をクリックしたときに実行",
+    "values": [
+        "dtpl:tp/back_to_start/if"
+    ]
+}
