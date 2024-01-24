@@ -124,3 +124,10 @@ scoreboard players set Carry Random 6767
 ## ランキング表示
 scoreboard objectives add alu_util.ranking.input dummy
 scoreboard objectives add alu_util.ranking.output dummy
+
+#> ストレージ
+# @public
+    #declare storage alu_util: 汎用ストレージ
+    #declare storage alu_util:player プレイヤー個人個人のデータ
+    #declare storage alu_util:tmp 仮データストレージ
+    execute unless data storage alu_util: player run data modify storage alu_util: player set value []
