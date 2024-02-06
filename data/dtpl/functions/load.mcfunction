@@ -88,3 +88,7 @@ scoreboard objectives add dtpl.ranking.biggest_win.input dummy
 #> 汎用
 # @internal
     #declare tag dtpl.new 新しく召喚したエンティティ
+
+#> looking at
+# @internal
+    #declare tag dtpl.check_looking_at_this 見られているかチェックされるエンティティ

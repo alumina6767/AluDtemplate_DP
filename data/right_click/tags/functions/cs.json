@@ -1,4 +1,7 @@
 {
     "_comment": "ニンジン付きの棒を右クリック時に実行する",
-    "values": []
+    "values": [
+        "dtpl:tp/back_to_start/if",
+        "dtpl:mob_catch/if"
+    ]
 }
