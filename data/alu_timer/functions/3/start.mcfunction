@@ -5,7 +5,7 @@
 ## ボスバーの表示
 bossbar set timer.3 name {"storage": "alu_timer","nbt":"3.name","interpret": true}
 bossbar set timer.3 visible true
-bossbar set timer.1 players @a
+bossbar set timer.3 players @a
 
 ## tickに変換
 scoreboard players operation _ timer.3 = set timer.3
