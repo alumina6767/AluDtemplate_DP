@@ -11,9 +11,11 @@
 
 ## スタッフのチームへ入れる
     team join staff uniudesu
+    team join staff Matsuno12199
     team join staff SASAPIYO
     team join staff Miz_3273
     team join staff Konotori_micra
+    team join staff ITOMA35
     team join staff alumina6767
 
     team join staff l000cha

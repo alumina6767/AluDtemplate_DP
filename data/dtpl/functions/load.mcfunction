@@ -40,11 +40,13 @@
 #> スタッフ
 # @public
     #declare score_holder uniudesu うにう
+    #declare score_holder Matsuno12199 松野
     #declare score_holder SASAPIYO ささぴよ
     #declare score_holder Miz_3273 みずなみ
     #declare score_holder Konotori_micra この鳥
     #declare score_holder l000cha 煎茶
     #declare score_holder ganzo59 ガンゾー
+    #declare score_holder ITOMA35 暇
     #declare score_holder alumina6767 あるみな
 
 #> forcelaod
