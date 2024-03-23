@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    { "required": false, "id": "#alu_util:passive" },
+    { "required": false, "id": "#alu_util:neutral" },
+    { "required": false, "id": "#alu_util:hostile" },
+    { "required": false, "id": "#alu_util:unused" }
+  ]
+}
